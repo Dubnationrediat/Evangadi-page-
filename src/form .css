@@ -14,7 +14,7 @@
 }
 
 .in1{
-  width:284px;
+  width:100%;
   height: 50px;
   margin-bottom: 15px;
   border-radius: 5px;
@@ -51,7 +51,7 @@ form{
     border-color:#3a59ef ;
     border-radius: 5px;
     color: #ffffff;
-    width: 299px;
+    width: 100%;
     height: 52px;
     display: block;
     text-align: center;
@@ -61,18 +61,32 @@ form{
     border:1.5px ;
     margin-bottom: 15px;
 }
+.btn1 :hover{
+    background-color: #FF8500 !important;
+}
 .a3{
-   margin-left:120px;
-   color:#FF8500 ;
+   /* margin-left:120px; */
+   color:#FF8500 !important;
    margin: 20px;
-  text-align: center;
-  padding-left: 50px;
+  /* text-align: center; */
+  /* padding-left: 50px; */
 
 }
-.wana{
+/* .wana{
     background-color: #fff;
     width: 340px;
     margin: 0 auto;
+    margin: 32px ;
     border-radius: 6px;
     padding-bottom: 120px;
+    position: center;
+} */
+.main{
+
+ background-color: #fff;
+ padding: 15px;
+ margin:  auto;
+ margin: 32px ;
+ border-radius: 8px;
+ padding-bottom: 120px;
 }

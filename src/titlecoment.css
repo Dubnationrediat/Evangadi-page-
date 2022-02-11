@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    display: inline-block;
+    float: none;
+    position: relative;
+    width: 100% !important;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+h2{
+    font-size: 30px;
+    line-height: 35px;
+    /* font-size: 45px; */
+    color: #4b456f;
+    /* line-height: 52px; */
+    font-weight: 600;
+}
+.titlestyle{
+    background-color:white ;
+}
+
+#hmini{
+font-size:20px ;
+}

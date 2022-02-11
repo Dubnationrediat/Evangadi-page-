@@ -2,8 +2,8 @@ import React from 'react'
 import "./form .css"
 function Form() {
     return (
-      <div>
-        <div className="wana">
+      <div className='containe main'>
+        <div className="wana container ">
           <p className="p1">Join the network</p>
           <p className="p2">
             Already have an account?<a className="a1">Sign in</a>

@@ -4,7 +4,7 @@ import "./Header.css"
 function Header() {
     return (
     <div>
-          <header className='headerCounter'>
+          <header className='headerCounter container-fluid fixed-top'>
             <div className='img1'>
                 <img src={headerLogo}/>
             </div>

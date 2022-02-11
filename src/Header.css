@@ -7,6 +7,10 @@
 .headerCounter{
     display: flex;
     justify-content: space-between;
+    /* position: fixed top; */
+    background-color: #fff;
+    width: 100% !important;
+   
 }
 .icon{
     font-size: 40px;
